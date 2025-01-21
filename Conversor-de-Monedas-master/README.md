@@ -82,22 +82,6 @@ El valor de 100.00 [USD] es 81100.00 [CLP] Conversión guardada en archivo JSON.
 "conversion_rate": 811.00
 }
 
------------------------------------------------------------------------------------------------
-
-## Próximos pasos
-
-Validaciones avanzadas:
-Evitar conversiones con valores negativos.
-Manejo más robusto de errores.
-Soporte para más monedas.
-Implementación de una interfaz gráfica.
-
-
-## Contribución
-Si deseas contribuir a este proyecto, siéntete libre de enviar un pull request o abrir un issue en el repositorio.
-
-## Autor
-Creado por Cristian Andrés Godoy Angel.
 
 
 
